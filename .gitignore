@@ -1,2 +1,14 @@
 .env
 .venv
+# Environment variables (API keys!)
+.env
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
